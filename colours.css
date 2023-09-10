@@ -1,0 +1,16 @@
+
+/* Klass*/
+.chili {
+    color: red;
+}
+
+/*ID*/
+#himmel{
+    color: blue;
+}
+
+
+/* h1 override colour*/
+h1{
+    color: brown;
+}
